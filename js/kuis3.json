@@ -1,0 +1,75 @@
+{
+	"soal": [
+        "Berikut ini yang termasuk kategori perangkat proses pada komputer adalah .... ",
+        "Beberapa tipe casing komputer diantaranya ....",
+        "Di antara tipe casing komputer berikut yang mungkin menggunakan motherboard tipe EATX adalah ....",
+        "Berikut ini yang termasuk fakta mengenai power supply antara lain .... ",
+        "Berikut ini yang termasuk fakta mengenai motherboard antara lain .... ",
+        "Jenis dan ukuran form factor motherboard antara lain ....",
+        "Berikut ini yang termasuk fakta mengenai power supply tipe ATX adalah ...."
+        
+	],
+
+    "a": [
+        "obeng",
+        "Mix Cube",
+        "Mid Tower",
+        "mengubah arus AC ke DC",
+        "hardware yang menghubungkan perangkat-perangkat lain",
+        "Micro-ETX",
+        "digunakan untuk motherboard ATX"
+    ],
+    
+    "b": [
+        "sekrup",
+        "Field Tower",
+        "Super Tower",
+        "merupakan perangkat input komputer",
+        "memiliki empat tipe umum",
+        "ATX",
+        "merupakan model yang lebih lama"
+    ],
+    
+	"c": [
+        "motherboard",
+        "Desktop",
+        "Mini Cube",
+        "membagikan listrik ke perangkat-perangkat komputer",
+        "merupakan jantungnya komputer",
+        "Mini-ITX",
+        "memiliki 2 konektor"
+    ],
+
+    "d": [
+        "case",
+        "Mini Cube",
+        "Mini Tower",
+        "memiliki 2 tipe yakni ITX dan EATX",
+        "bentuknya mirip PCB",
+        "Micro-ATX",
+        "memiliki 1 konektor 24-pin"
+        
+    ],
+
+    "e": [
+        "power supply",
+        "Mid Cube",
+        "Full Tower",
+        "melindungi perangkat-perangkat dari debu dan kotoran",
+        "tempat diletakkannya Harddisk",
+        "EATX",
+        "memiliki 1 konektor 6-pin"
+    ],
+
+    "f": [
+        "jumper",
+        "Mini Tower",
+        "Desktop",
+        "memiliki 2 tipe yakni AT dan ATX",
+        "tempat diletakannya CPU",
+        "Mini-ETX",
+        "memiliki 1 konektor 20-pin"
+    ]
+
+
+}
